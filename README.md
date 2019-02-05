@@ -1,2 +1,2 @@
 # electionanalysis
-Insights from the results of a survey 
+Survey results about Mexican elections 
